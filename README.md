@@ -34,6 +34,7 @@ UPI: 26%
 Cash: 25%
 Debit Card: 25%
 Credit Card: 24%
+
 This shows that digital payments (UPI and cards) dominate the transactions.
 
 # Customer Ratings Distribution (Bar Chart):
