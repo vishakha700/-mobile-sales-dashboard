@@ -68,4 +68,6 @@ Customer payment preferences.
 Customer satisfaction based on ratings.
 Seasonal and daily sales patterns.
 
+
+
 ![Uploading Screenshot 2025-01-21 183702.png…]()
